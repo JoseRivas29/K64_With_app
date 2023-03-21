@@ -1,0 +1,8 @@
+C:\Users\jarsr\OneDrive\Documents\Escuela\Sistemas_de_Comunicacion_IoT_2023\Tareas_Docs\frdmk64f_lwip_mqtt_freertos\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\Users\jarsr\OneDrive\Documents\Escuela\Sistemas_de_Comunicacion_IoT_2023\Tareas_Docs\frdmk64f_lwip_mqtt_freertos\drivers/fsl_port.h:271:20:PORT_SetPinConfig	32	static
+C:\Users\jarsr\OneDrive\Documents\Escuela\Sistemas_de_Comunicacion_IoT_2023\Tareas_Docs\frdmk64f_lwip_mqtt_freertos\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+C:\Users\jarsr\OneDrive\Documents\Escuela\Sistemas_de_Comunicacion_IoT_2023\Tareas_Docs\frdmk64f_lwip_mqtt_freertos\drivers/fsl_port.h:443:20:PORT_SetPinInterruptConfig	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:79:6:BOARD_InitPins	16	static
+../board/pin_mux.c:172:6:BOARD_InitLEDsInit	32	static
+../board/pin_mux.c:252:6:BOARD_InitButtonsPins	24	static
